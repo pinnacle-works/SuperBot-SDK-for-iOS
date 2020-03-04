@@ -96,4 +96,4 @@ Made with ❤️ by [Antino Labs](https://www.antino.io/) and [PinnacleWorks](ht
 
 
 ## License
-SuperBot is released under the MIT license. [See LICENSE](https://github.com/antinolabsdev/SuperBotSDK/blob/master/LICENSE) for details.
+SuperBot is released under the MIT license. [See LICENSE](https://github.com/pinnacle-works/SuperBot-SDK-for-iOS/blob/master/LICENSE) for details.
