@@ -1,0 +1,21 @@
+PODS:
+  - SuperBotSDK (0.0.1)
+
+DEPENDENCIES:
+  - SuperBotSDK (from `https://github.com/antinolabsdev/SuperBotSDK.git`)
+
+EXTERNAL SOURCES:
+  SuperBotSDK:
+    :git: https://github.com/antinolabsdev/SuperBotSDK.git
+
+CHECKOUT OPTIONS:
+  SuperBotSDK:
+    :commit: 60226ca61def9980bd407c8d61fea4561ec2e6b1
+    :git: https://github.com/antinolabsdev/SuperBotSDK.git
+
+SPEC CHECKSUMS:
+  SuperBotSDK: 256f881e02ee1c9eb21450431ddf1f6c4eaa689d
+
+PODFILE CHECKSUM: 4a4ba991ab7f59ec2af9df0bdfaade1451d34ac0
+
+COCOAPODS: 1.8.4

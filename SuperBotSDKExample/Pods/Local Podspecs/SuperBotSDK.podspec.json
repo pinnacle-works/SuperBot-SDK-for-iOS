@@ -1,0 +1,27 @@
+{
+  "name": "SuperBotSDK",
+  "version": "0.0.1",
+  "summary": "SuperBotSDK is a simple swift framework.",
+  "homepage": "https://github.com/antinolabsdev",
+  "description": "SuperBotSDK is a simple framework for SuperBot chat support.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sandeep Ahuja": "sandeep.ahuja493@gmail.com"
+  },
+  "ios": {
+    "vendored_frameworks": "SuperBotSDK.framework"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.2",
+  "source": {
+    "git": "https://github.com/antinolabsdev/SuperBotSDK.git",
+    "tag": "0.0.1"
+  },
+  "exclude_files": "Classes/Exclude",
+  "swift_version": "4.2"
+}

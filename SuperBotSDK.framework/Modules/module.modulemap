@@ -1,0 +1,11 @@
+framework module SuperBotSDK {
+  umbrella header "SuperBotSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SuperBotSDK.Swift {
+    header "SuperBotSDK-Swift.h"
+    requires objc
+}
