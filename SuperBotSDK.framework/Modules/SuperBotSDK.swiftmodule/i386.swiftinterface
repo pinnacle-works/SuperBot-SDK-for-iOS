@@ -25,8 +25,8 @@ import WebKit
 @objc open class SuperBot : ObjectiveC.NSObject {
   public static var sharedInstance: SuperBotSDK.SuperBot
   @objc open func configure(AccountKey: Swift.String, SecretKey: Swift.String)
-  @objc open func activateApp()
   @objc open func showBot(on viewController: UIKit.UIViewController)
+  @objc open func hideBot()
   @objc deinit
 }
 @objc @IBDesignable open class Floaty : UIKit.UIView {
