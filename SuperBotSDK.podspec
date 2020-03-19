@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SuperBotSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "SuperBotSDK is a simple swift framework."
 
   spec.homepage     = "https://github.com/pinnacle-works"

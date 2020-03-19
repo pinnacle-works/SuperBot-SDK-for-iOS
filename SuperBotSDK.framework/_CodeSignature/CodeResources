@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		bilZS0wDU5jcBH4DaMTazd9F9BI=
+		ltAL1lxQjoCl6ATwEaDqbJEvkDA=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		yhKVhBkjm9gH5Ju2DujgRKxiHM0=
+		H/GX2nQ0nuK41Q7EQk3F/momuLY=
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		l9H8QaAK2ooAAsNUV70y/W7dumc=
+		99BWmohQmiJ6x3Kpjsb7vCM60nU=
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		l9H8QaAK2ooAAsNUV70y/W7dumc=
+		99BWmohQmiJ6x3Kpjsb7vCM60nU=
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		yhKVhBkjm9gH5Ju2DujgRKxiHM0=
+		H/GX2nQ0nuK41Q7EQk3F/momuLY=
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/SuperBotSDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		yhKVhBkjm9gH5Ju2DujgRKxiHM0=
+		H/GX2nQ0nuK41Q7EQk3F/momuLY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -139,11 +139,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bilZS0wDU5jcBH4DaMTazd9F9BI=
+			ltAL1lxQjoCl6ATwEaDqbJEvkDA=
 			</data>
 			<key>hash2</key>
 			<data>
-			sKZVNXSOt5zHlJefuDlV4Hhd+YY6iif7QPQDh9nBees=
+			h7irszm4ywapZAGD2bU53pcPPLo4JBIi7aUex0X5fbc=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -326,11 +326,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yhKVhBkjm9gH5Ju2DujgRKxiHM0=
+			H/GX2nQ0nuK41Q7EQk3F/momuLY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lczWC+QmA7+7w65XAf7CGpKqXjcxnBdqWJUGCiptCIc=
+			zoaqpSUyL7F9Nxj8knF8WMAojj47P/Osf/m5TYCX+Pg=
 			</data>
 		</dict>
 		<key>Modules/SuperBotSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -359,11 +359,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l9H8QaAK2ooAAsNUV70y/W7dumc=
+			99BWmohQmiJ6x3Kpjsb7vCM60nU=
 			</data>
 			<key>hash2</key>
 			<data>
-			sarmJzXiBep8AS6IGh2nc8/eWI3aGs3mjJ7UDRmXvPo=
+			jOeOpufM5LmamrMoqbLTvGPIzcOxoLlQ0na39wAmWP0=
 			</data>
 		</dict>
 		<key>Modules/SuperBotSDK.swiftmodule/arm64.swiftdoc</key>
@@ -392,11 +392,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l9H8QaAK2ooAAsNUV70y/W7dumc=
+			99BWmohQmiJ6x3Kpjsb7vCM60nU=
 			</data>
 			<key>hash2</key>
 			<data>
-			sarmJzXiBep8AS6IGh2nc8/eWI3aGs3mjJ7UDRmXvPo=
+			jOeOpufM5LmamrMoqbLTvGPIzcOxoLlQ0na39wAmWP0=
 			</data>
 		</dict>
 		<key>Modules/SuperBotSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -425,11 +425,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yhKVhBkjm9gH5Ju2DujgRKxiHM0=
+			H/GX2nQ0nuK41Q7EQk3F/momuLY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lczWC+QmA7+7w65XAf7CGpKqXjcxnBdqWJUGCiptCIc=
+			zoaqpSUyL7F9Nxj8knF8WMAojj47P/Osf/m5TYCX+Pg=
 			</data>
 		</dict>
 		<key>Modules/SuperBotSDK.swiftmodule/armv7.swiftdoc</key>
@@ -458,11 +458,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yhKVhBkjm9gH5Ju2DujgRKxiHM0=
+			H/GX2nQ0nuK41Q7EQk3F/momuLY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lczWC+QmA7+7w65XAf7CGpKqXjcxnBdqWJUGCiptCIc=
+			zoaqpSUyL7F9Nxj8knF8WMAojj47P/Osf/m5TYCX+Pg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
