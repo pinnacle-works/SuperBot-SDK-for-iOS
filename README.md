@@ -39,7 +39,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '9.0'
 use_frameworks!
 
-pod 'SuperBotSDK', :git =>"https://github.com/antinolabsdev/SuperBotSDK.git"
+pod 'SuperBotSDK', :git =>"https://github.com/pinnacle-works/SuperBot-SDK-for-iOS.git"
 ```
 
 Then, run the following command:
