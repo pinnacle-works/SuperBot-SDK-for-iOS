@@ -31,7 +31,7 @@ To use the SuperBot SDK we recommend to use Cocoapods 1.7.0 or later
 $ gem install cocoapods
 ```
 
-To integrate the Customerly SDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate the SuperBot SDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 
 ```ruby
@@ -49,16 +49,16 @@ $ pod install
 ```
 
 ## Usage
-If you are setting up a new project, you need to install the SDK. You may have already completed this as part of creating a Customerly account. We recommend using CocoaPods 1.7.0 or later to install the SDK.
+If you are setting up a new project, you need to install the SDK. You may have already completed this as part of creating a SuperBot account. We recommend using CocoaPods 1.7.0 or later to install the SDK.
 
 First of all, if you don't have an Xcode project yet, create one, then install the SDK following the paragraph `Cocoapods`.
 
-**1)** Import the Customerly iOS SDK module in your UIApplicationDelegate subclass:
+**1)** Import the SuperBot iOS SDK module in your UIApplicationDelegate subclass:
 
 ```
 import SuperBotSDK
 ```
-**2)** Configure a Customerly iOS SDK shared instance, in your App Delegate, inside **application:didFinishLaunchingWithOptions:** method:
+**2)** Configure a SuperBot iOS SDK shared instance, in your App Delegate, inside **application:didFinishLaunchingWithOptions:** method:
 
 ```
 SuperBot.sharedInstance.configure(AccountKey: "YOUR_ACCOUNT_KEY", SecretKey: "YOUR_SECRET_KEY")
