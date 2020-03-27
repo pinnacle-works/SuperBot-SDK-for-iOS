@@ -23,7 +23,7 @@ The SuperBot iOS SDK is really simple to integrate into your apps, and allow you
 
 ## CocoaPods
 
-To use the Customerly SDK we recommend to use Cocoapods 1.7.0 or later
+To use the SuperBot SDK we recommend to use Cocoapods 1.7.0 or later
 
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
 
